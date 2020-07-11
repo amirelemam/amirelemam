@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Amir Elemam, a Full Stack Software Engineer, mainly focused on backend solutions.
+I'm Amir Elemam, a **Full Stack Software Engineer**, mainly focused on backend solutions.
 
-Some other titles are B.Sc. of Biomedical Informatics, AWS Certified Developer - Associate, Microsoft Certified Professional and OpenJS Node.js Services Developer.
+Some other titles I have are B.Sc. of Biomedical Informatics, AWS Certified Developer - Associate, Microsoft Certified Professional and OpenJS Node.js Services Developer.
 
 I currently work with **Node.js** and **React.js**, while I have worked with Python, C#, Vue.js, PHP and C in the past.
 
