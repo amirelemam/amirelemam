@@ -2,7 +2,7 @@
 
 I'm Amir Elemam, a **Senior Software Engineer**, mainly focused on backend solutions.
 
-I'm a Bachelor of Biomedical Informatics, AWS Certified Developer - Associate, Microsoft Certified Professional and OpenJS Node.js Services Developer.
+I'm a Bachelor of Biomedical Informatics, AWS Certified Developer - Associate, Microsoft Certified Professional and OpenJS Node.js Certified Services Developer (30th person in the world to get this certification).
 
 I currently work with **Node.js** and **AWS**, while I have worked with React.js, Python, C#, Vue.js, PHP and C in the past.
 
@@ -22,9 +22,9 @@ Some of the technologies/tools I have worked with are:
 > Agile Tools: Trello, Jira, ClubHouse  
 > Others: NLP (Microsoft LUIS), Design Patterns, API Security, SendGrid, Certbot, Keycloak
 
-You can reach me out on [LinkedIn](https://www.linkedin.com/in/amirelemam) and read my articles on [Medium](https://medium.com/@amirelemam).
+You can reach me out on [LinkedIn](https://www.linkedin.com/in/amirelemam) or via email, and read my articles on [Medium](https://medium.com/@amirelemam).
 
-Fun fact: I was the 30th person in the world to get the OpenJS Node.js Services Developer (JSNSD) certification.
+Fun fact: I don't drink coffee.
 
 <!--
 **amirelemam/amirelemam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
