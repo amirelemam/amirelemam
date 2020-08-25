@@ -4,7 +4,7 @@ I'm Amir Elemam, a **Senior Software Engineer**, mainly focused on backend solut
 
 I'm a Bachelor of Biomedical Informatics, AWS Certified Developer - Associate, Microsoft Certified Professional and OpenJS Node.js Certified Services Developer (30th person in the world to get this certification).
 
-I currently work with **Node.js** and **AWS**, while I have worked with React.js, Python, C#, Vue.js, PHP and C in the past.
+I currently work with **Node.js** and **AWS**, but I have worked with React.js, Python, C#, Vue.js, PHP and C in the past.
 
 Some of the technologies/tools I have worked with are:
 
