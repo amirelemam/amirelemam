@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Amir Elemam, a **Senior Software Engineer**, mainly focused on backend solutions.
+I'm a **Senior Software Engineer**, mainly focused on backend solutions.
 
 I'm a Bachelor of Biomedical Informatics, AWS Certified Developer - Associate, Microsoft Certified Professional and OpenJS Node.js Certified Services Developer (30th person in the world to get this certification).
 
