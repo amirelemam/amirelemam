@@ -17,12 +17,12 @@ Some of the technologies/tools I have worked with are:
 > Cloud AWS (S3, EC2, RDS, Lambda, API Gateway, CloudFront, Elastic Beanstalk, ECR, ECS), GCP (Cloud Functions, Firebase)  
 > Code style & quality: ESLint, git hooks, prettier, AirBnB, StandardJS  
 > System Monitoring: New Relic, Papertrail, Kibana, Logstash  
-> Message Queues: RabbitMQ, PubSub
+> Message Queues: RabbitMQ, PubSub  
 > Agile Methodologies: Scrum, Kanban  
 > Agile Tools: Trello, Jira, ClubHouse  
 > Others: NLP (Microsoft LUIS), Design Patterns, API Security, SendGrid, Certbot, Keycloak
 
-You can reach me out on [LinkedIn](https://www.linkedin.com/in/amirelemam) or via email, and read my articles on [Medium](https://medium.com/@amirelemam).
+You can reach me out on [LinkedIn](https://www.linkedin.com/in/amirelemam) and read my articles on [Medium](https://medium.com/@amirelemam).
 
 Fun fact: I don't drink coffee.
 
