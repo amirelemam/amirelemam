@@ -24,8 +24,6 @@ Some of the technologies/tools I have worked with are:
 
 You can reach me out on [LinkedIn](https://www.linkedin.com/in/amirelemam) and read my articles on [Medium](https://medium.com/@amirelemam).
 
-Fun fact: I don't drink coffee.
-
 <!--
 **amirelemam/amirelemam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
