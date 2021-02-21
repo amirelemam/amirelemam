@@ -8,8 +8,8 @@ I currently work with **Node.js** and **AWS**, but I have worked with React.js, 
 
 Some of the technologies/tools I have worked with are:
 
-> Node.js (Express.js), Python, React.js (Material UI), Vue.js, HTML5, CSS3, Bootstrap  
-> Development of RESTful APIs (Websocket & HTTP)  
+> Node.js, Python, React.js (Material UI), Vue.js, HTML5, CSS3, Bootstrap  
+> Development of RESTful APIs with Express.js
 > Databases: SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Redis, Firebase)  
 > Automated tests: jest, mocha, chai, joi, sinon, istambul, stryker  
 > Version control: git, gitflow  
