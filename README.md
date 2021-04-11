@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a **Senior Backend Software Engineer** working for a Sisnet LLC, a Silicon Valley-based software factory.
+I'm a **Senior Backend Software Engineer** working for Sisnet LLC, a Silicon Valley-based software factory.
 
 I'm a Bachelor of Biomedical Informatics, AWS Certified Developer - Associate, Microsoft Certified Professional and OpenJS Node.js Certified Services Developer (30th person in the world to get this certification).
 
