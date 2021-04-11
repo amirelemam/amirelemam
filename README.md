@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 I'm a **Senior Backend Software Engineer** working for Sisnet LLC, a Silicon Valley-based software factory.
+Throughout my 6+ years of experience, I mostly worked with **Node.js** (4+ years), but also React.js, Python, Vue.js, PHP and C.
 
 I'm a Bachelor of Biomedical Informatics, AWS Certified Developer - Associate, Microsoft Certified Professional and OpenJS Node.js Certified Services Developer (30th person in the world to get this certification).
-
-I currently work with **Node.js** and **AWS**, but I have worked with React.js, Python, Vue.js, PHP and C in the past.
 
 Some of the technologies/tools I have worked with are:
 
@@ -22,6 +21,7 @@ Some of the technologies/tools I have worked with are:
 > Agile Methodologies: Scrum, Kanban 
 > Agile Tools: Trello, Jira, ClubHouse 
 > Other: NLP (Microsoft LUIS), Design Patterns, API Security, SendGrid, Certbot, Keycloak 
+
 You can reach me out on [LinkedIn](https://www.linkedin.com/in/amirelemam) or over email.
 <!--
 **amirelemam/amirelemam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
