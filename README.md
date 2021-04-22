@@ -22,7 +22,7 @@ Some of the technologies/tools I have worked with are:
 > Agile Tools: Trello, Jira, ClubHouse   
 > Other: NLP (Microsoft LUIS), Design Patterns, API Security, SendGrid, Certbot, Keycloak   
 
-You can reach me out on [LinkedIn](https://www.linkedin.com/in/amirelemam) or over email.
+You can reach me out on [LinkedIn](https://www.linkedin.com/in/amirelemam) or over email. Also, I write on [Medium](https://amirelemam.medium.com/)
 <!--
 **amirelemam/amirelemam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
