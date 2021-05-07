@@ -22,19 +22,12 @@ Some of the technologies/tools I have worked with are:
 > Agile Tools: Trello, Jira, ClubHouse  
 > Others: NLP (Microsoft LUIS), Design Patterns, API Security, SendGrid, Certbot, Keycloak
 
-You can reach me out on [LinkedIn](https://www.linkedin.com/in/amirelemam) and read my articles on [Medium](https://medium.com/@amirelemam).
+You can reach me out on [LinkedIn](https://www.linkedin.com/in/amirelemam) and read my articles on [Medium](https://medium.com/@amirelemam).  
 
-<!--
-**amirelemam/amirelemam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="text-align: center;">
+<br />
+<img src="./img/openjs.png" alt="Node.js Certified Services Developer" width="200" style="padding-right: 50px" />
+<img src="./img/aws.png" alt="AWS Certified Developer - Associate" width="200" style="padding-right: 50px"/>
+<img src="./img/microsoft.png" alt="Microsoft Certified Professional" width="200"/>
+</div>
