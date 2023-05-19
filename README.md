@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm a **Senior Backend Software Engineer** working for Sisnet LLC, a Silicon Valley-based software factory.  
-Throughout my 6+ years of experience, I mostly worked with **Node.js** (4+ years), but also React.js, Vue.js and Python.
+I'm a **Senior Backend Software Engineer** with 6 years of professional experience.
+I mostly work with **Node.js** (6+ years) and **TypeScript** (2 years), but also React.js and Python.
 
 I'm a Bachelor of Biomedical Informatics, AWS Certified Developer - Associate, Microsoft Certified Professional and OpenJS Node.js Certified Services Developer (30th person in the world to get this certification).
 
 Some of the technologies/tools I have worked with are:
 
-> Advanced knowledge of Node.js  
+> Advanced knowledge of Node.js and TypeScript
 > Some knowledge of Python, React.js (Material UI), Vue.js, HTML5, CSS3, Bootstrap   
 > Development of RESTful APIs with Express.js  
 > Databases: SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Redis, Firebase)   
