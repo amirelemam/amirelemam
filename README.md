@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm a **Tech Lead / Solutions Architect** with 9 years of professional experience.
-I mostly work with **Node.js** (7+ years) and **TypeScript** (4 years), but also React.js and Python.
+I'm a **Tech Lead / Solutions Architect** with 13 years of professional experience.
+I mostly work with **Node.js** (8 years) and **TypeScript** (5 years), but also React.js and Python.
 
 I'm a Bachelor of Biomedical Informatics, AWS Certified Developer - Associate, Microsoft Certified Professional and OpenJS Node.js Certified Services Developer (30th person in the world to get this certification).
 
